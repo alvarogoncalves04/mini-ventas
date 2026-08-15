@@ -1,4 +1,3 @@
-# Analisis de mini-ventas
 # 📊 Mini Ventas - Análisis de Ventas de Tienda Online
 
 ## 📌 Descripción

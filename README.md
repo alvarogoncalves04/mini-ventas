@@ -22,17 +22,29 @@ Proyecto completo de análisis de datos para una tienda online. Incluye:
 
 ## 📁 Estructura del Proyecto
 mini-ventas/
+
 ├── data/
+
 │ ├── oltp.db # Base de datos transaccional
+
 │ └── olap.db # Data Warehouse
+
 ├── src/
+
 │ ├── 01_generar_datos.py # Genera 100,000 pedidos
+
 │ ├── 02_etl_pipeline.py # Pipeline ETL
+
 │ ├── 03_consultas_sql.py # Consultas analíticas
+
 │ ├── 04_dashboard.py # Dashboard Streamlit
+
 │ ├── 05_automatizacion.py # Automatización
+
 │ └── 06_machine_learning.py # Predicción de ventas
+
 ├── requirements.txt
+
 └── README.md
 
 ## 📊 Análisis Realizado

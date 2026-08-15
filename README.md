@@ -63,4 +63,4 @@ mini-ventas/
 
 👤 Autor
 Alvaro Goncalves
-https://mini-ventas.streamlit.app/  
+https://mini-ventas.streamlit.app/      

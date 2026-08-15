@@ -1,0 +1,8 @@
+pandas
+streamlit
+matplotlib
+faker
+scikit-learn
+joblib
+schedule
+sqlite3
